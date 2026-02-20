@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>한글 랜덤 셔플</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="app-header">
+        <h1>한글 랜덤 셔플</h1>
+        <p>자음 × 모음 조합(140자)을 랜덤으로 섞어 볼 수 있습니다.</p>
+      </header>
+
+      <section class="mode-menu" aria-label="보기 모드">
+        <button id="gridModeButton" class="mode-button is-active" type="button" data-mode="grid">
+          격자 모드
+        </button>
+        <button id="singleModeButton" class="mode-button" type="button" data-mode="single">
+          한 장 모드
+        </button>
+      </section>
+
+      <section id="gridView" class="view" aria-live="polite">
+        <div class="controls">
+          <button id="shuffleGridButton" type="button">랜덤으로 다시 섞기</button>
+        </div>
+        <div id="letterGrid" class="letter-grid"></div>
+      </section>
+
+      <section id="singleView" class="view" aria-live="polite" hidden>
+        <div class="controls single-controls">
+          <button id="shuffleSingleButton" type="button">덱 다시 섞기</button>
+          <button id="prevCardButton" type="button">이전 글자</button>
+          <button id="nextCardButton" type="button">다음 글자</button>
+        </div>
+        <div class="single-stage">
+          <div id="singleCard" class="single-card"></div>
+          <p id="singleMeta" class="single-meta"></p>
+        </div>
+      </section>
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

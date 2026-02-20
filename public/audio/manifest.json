@@ -1,0 +1,1138 @@
+{
+  "generatedAt": "2026-02-20T17:36:43.546Z",
+  "provider": "supertone",
+  "baseUrl": "https://supertoneapi.com",
+  "voiceId": "4680c81c69d8490a044413",
+  "modelId": "sona_speech_1",
+  "language": "ko",
+  "style": "neutral",
+  "outputFormat": "mp3",
+  "voiceSettings": {
+    "pitch_shift": 0,
+    "pitch_variance": 1,
+    "speed": 1
+  },
+  "total": 140,
+  "items": [
+    {
+      "id": "letter-001",
+      "character": "가",
+      "order": 1,
+      "fileName": "001.mp3",
+      "path": "/audio/001.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-002",
+      "character": "갸",
+      "order": 2,
+      "fileName": "002.mp3",
+      "path": "/audio/002.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-003",
+      "character": "거",
+      "order": 3,
+      "fileName": "003.mp3",
+      "path": "/audio/003.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-004",
+      "character": "겨",
+      "order": 4,
+      "fileName": "004.mp3",
+      "path": "/audio/004.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-005",
+      "character": "고",
+      "order": 5,
+      "fileName": "005.mp3",
+      "path": "/audio/005.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-006",
+      "character": "교",
+      "order": 6,
+      "fileName": "006.mp3",
+      "path": "/audio/006.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-007",
+      "character": "구",
+      "order": 7,
+      "fileName": "007.mp3",
+      "path": "/audio/007.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-008",
+      "character": "규",
+      "order": 8,
+      "fileName": "008.mp3",
+      "path": "/audio/008.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-009",
+      "character": "그",
+      "order": 9,
+      "fileName": "009.mp3",
+      "path": "/audio/009.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-010",
+      "character": "기",
+      "order": 10,
+      "fileName": "010.mp3",
+      "path": "/audio/010.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-011",
+      "character": "나",
+      "order": 11,
+      "fileName": "011.mp3",
+      "path": "/audio/011.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-012",
+      "character": "냐",
+      "order": 12,
+      "fileName": "012.mp3",
+      "path": "/audio/012.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-013",
+      "character": "너",
+      "order": 13,
+      "fileName": "013.mp3",
+      "path": "/audio/013.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-014",
+      "character": "녀",
+      "order": 14,
+      "fileName": "014.mp3",
+      "path": "/audio/014.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-015",
+      "character": "노",
+      "order": 15,
+      "fileName": "015.mp3",
+      "path": "/audio/015.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-016",
+      "character": "뇨",
+      "order": 16,
+      "fileName": "016.mp3",
+      "path": "/audio/016.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-017",
+      "character": "누",
+      "order": 17,
+      "fileName": "017.mp3",
+      "path": "/audio/017.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-018",
+      "character": "뉴",
+      "order": 18,
+      "fileName": "018.mp3",
+      "path": "/audio/018.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-019",
+      "character": "느",
+      "order": 19,
+      "fileName": "019.mp3",
+      "path": "/audio/019.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-020",
+      "character": "니",
+      "order": 20,
+      "fileName": "020.mp3",
+      "path": "/audio/020.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-021",
+      "character": "다",
+      "order": 21,
+      "fileName": "021.mp3",
+      "path": "/audio/021.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-022",
+      "character": "댜",
+      "order": 22,
+      "fileName": "022.mp3",
+      "path": "/audio/022.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-023",
+      "character": "더",
+      "order": 23,
+      "fileName": "023.mp3",
+      "path": "/audio/023.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-024",
+      "character": "뎌",
+      "order": 24,
+      "fileName": "024.mp3",
+      "path": "/audio/024.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-025",
+      "character": "도",
+      "order": 25,
+      "fileName": "025.mp3",
+      "path": "/audio/025.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-026",
+      "character": "됴",
+      "order": 26,
+      "fileName": "026.mp3",
+      "path": "/audio/026.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-027",
+      "character": "두",
+      "order": 27,
+      "fileName": "027.mp3",
+      "path": "/audio/027.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-028",
+      "character": "듀",
+      "order": 28,
+      "fileName": "028.mp3",
+      "path": "/audio/028.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-029",
+      "character": "드",
+      "order": 29,
+      "fileName": "029.mp3",
+      "path": "/audio/029.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-030",
+      "character": "디",
+      "order": 30,
+      "fileName": "030.mp3",
+      "path": "/audio/030.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-031",
+      "character": "라",
+      "order": 31,
+      "fileName": "031.mp3",
+      "path": "/audio/031.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-032",
+      "character": "랴",
+      "order": 32,
+      "fileName": "032.mp3",
+      "path": "/audio/032.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-033",
+      "character": "러",
+      "order": 33,
+      "fileName": "033.mp3",
+      "path": "/audio/033.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-034",
+      "character": "려",
+      "order": 34,
+      "fileName": "034.mp3",
+      "path": "/audio/034.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-035",
+      "character": "로",
+      "order": 35,
+      "fileName": "035.mp3",
+      "path": "/audio/035.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-036",
+      "character": "료",
+      "order": 36,
+      "fileName": "036.mp3",
+      "path": "/audio/036.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-037",
+      "character": "루",
+      "order": 37,
+      "fileName": "037.mp3",
+      "path": "/audio/037.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-038",
+      "character": "류",
+      "order": 38,
+      "fileName": "038.mp3",
+      "path": "/audio/038.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-039",
+      "character": "르",
+      "order": 39,
+      "fileName": "039.mp3",
+      "path": "/audio/039.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-040",
+      "character": "리",
+      "order": 40,
+      "fileName": "040.mp3",
+      "path": "/audio/040.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-041",
+      "character": "마",
+      "order": 41,
+      "fileName": "041.mp3",
+      "path": "/audio/041.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-042",
+      "character": "먀",
+      "order": 42,
+      "fileName": "042.mp3",
+      "path": "/audio/042.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-043",
+      "character": "머",
+      "order": 43,
+      "fileName": "043.mp3",
+      "path": "/audio/043.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-044",
+      "character": "며",
+      "order": 44,
+      "fileName": "044.mp3",
+      "path": "/audio/044.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-045",
+      "character": "모",
+      "order": 45,
+      "fileName": "045.mp3",
+      "path": "/audio/045.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-046",
+      "character": "묘",
+      "order": 46,
+      "fileName": "046.mp3",
+      "path": "/audio/046.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-047",
+      "character": "무",
+      "order": 47,
+      "fileName": "047.mp3",
+      "path": "/audio/047.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-048",
+      "character": "뮤",
+      "order": 48,
+      "fileName": "048.mp3",
+      "path": "/audio/048.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-049",
+      "character": "므",
+      "order": 49,
+      "fileName": "049.mp3",
+      "path": "/audio/049.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-050",
+      "character": "미",
+      "order": 50,
+      "fileName": "050.mp3",
+      "path": "/audio/050.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-051",
+      "character": "바",
+      "order": 51,
+      "fileName": "051.mp3",
+      "path": "/audio/051.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-052",
+      "character": "뱌",
+      "order": 52,
+      "fileName": "052.mp3",
+      "path": "/audio/052.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-053",
+      "character": "버",
+      "order": 53,
+      "fileName": "053.mp3",
+      "path": "/audio/053.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-054",
+      "character": "벼",
+      "order": 54,
+      "fileName": "054.mp3",
+      "path": "/audio/054.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-055",
+      "character": "보",
+      "order": 55,
+      "fileName": "055.mp3",
+      "path": "/audio/055.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-056",
+      "character": "뵤",
+      "order": 56,
+      "fileName": "056.mp3",
+      "path": "/audio/056.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-057",
+      "character": "부",
+      "order": 57,
+      "fileName": "057.mp3",
+      "path": "/audio/057.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-058",
+      "character": "뷰",
+      "order": 58,
+      "fileName": "058.mp3",
+      "path": "/audio/058.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-059",
+      "character": "브",
+      "order": 59,
+      "fileName": "059.mp3",
+      "path": "/audio/059.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-060",
+      "character": "비",
+      "order": 60,
+      "fileName": "060.mp3",
+      "path": "/audio/060.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-061",
+      "character": "사",
+      "order": 61,
+      "fileName": "061.mp3",
+      "path": "/audio/061.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-062",
+      "character": "샤",
+      "order": 62,
+      "fileName": "062.mp3",
+      "path": "/audio/062.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-063",
+      "character": "서",
+      "order": 63,
+      "fileName": "063.mp3",
+      "path": "/audio/063.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-064",
+      "character": "셔",
+      "order": 64,
+      "fileName": "064.mp3",
+      "path": "/audio/064.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-065",
+      "character": "소",
+      "order": 65,
+      "fileName": "065.mp3",
+      "path": "/audio/065.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-066",
+      "character": "쇼",
+      "order": 66,
+      "fileName": "066.mp3",
+      "path": "/audio/066.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-067",
+      "character": "수",
+      "order": 67,
+      "fileName": "067.mp3",
+      "path": "/audio/067.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-068",
+      "character": "슈",
+      "order": 68,
+      "fileName": "068.mp3",
+      "path": "/audio/068.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-069",
+      "character": "스",
+      "order": 69,
+      "fileName": "069.mp3",
+      "path": "/audio/069.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-070",
+      "character": "시",
+      "order": 70,
+      "fileName": "070.mp3",
+      "path": "/audio/070.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-071",
+      "character": "아",
+      "order": 71,
+      "fileName": "071.mp3",
+      "path": "/audio/071.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-072",
+      "character": "야",
+      "order": 72,
+      "fileName": "072.mp3",
+      "path": "/audio/072.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-073",
+      "character": "어",
+      "order": 73,
+      "fileName": "073.mp3",
+      "path": "/audio/073.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-074",
+      "character": "여",
+      "order": 74,
+      "fileName": "074.mp3",
+      "path": "/audio/074.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-075",
+      "character": "오",
+      "order": 75,
+      "fileName": "075.mp3",
+      "path": "/audio/075.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-076",
+      "character": "요",
+      "order": 76,
+      "fileName": "076.mp3",
+      "path": "/audio/076.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-077",
+      "character": "우",
+      "order": 77,
+      "fileName": "077.mp3",
+      "path": "/audio/077.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-078",
+      "character": "유",
+      "order": 78,
+      "fileName": "078.mp3",
+      "path": "/audio/078.mp3",
+      "audioLengthSeconds": 0.8359183673469388
+    },
+    {
+      "id": "letter-079",
+      "character": "으",
+      "order": 79,
+      "fileName": "079.mp3",
+      "path": "/audio/079.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-080",
+      "character": "이",
+      "order": 80,
+      "fileName": "080.mp3",
+      "path": "/audio/080.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-081",
+      "character": "자",
+      "order": 81,
+      "fileName": "081.mp3",
+      "path": "/audio/081.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-082",
+      "character": "쟈",
+      "order": 82,
+      "fileName": "082.mp3",
+      "path": "/audio/082.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-083",
+      "character": "저",
+      "order": 83,
+      "fileName": "083.mp3",
+      "path": "/audio/083.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-084",
+      "character": "져",
+      "order": 84,
+      "fileName": "084.mp3",
+      "path": "/audio/084.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-085",
+      "character": "조",
+      "order": 85,
+      "fileName": "085.mp3",
+      "path": "/audio/085.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-086",
+      "character": "죠",
+      "order": 86,
+      "fileName": "086.mp3",
+      "path": "/audio/086.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-087",
+      "character": "주",
+      "order": 87,
+      "fileName": "087.mp3",
+      "path": "/audio/087.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-088",
+      "character": "쥬",
+      "order": 88,
+      "fileName": "088.mp3",
+      "path": "/audio/088.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-089",
+      "character": "즈",
+      "order": 89,
+      "fileName": "089.mp3",
+      "path": "/audio/089.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-090",
+      "character": "지",
+      "order": 90,
+      "fileName": "090.mp3",
+      "path": "/audio/090.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-091",
+      "character": "차",
+      "order": 91,
+      "fileName": "091.mp3",
+      "path": "/audio/091.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-092",
+      "character": "챠",
+      "order": 92,
+      "fileName": "092.mp3",
+      "path": "/audio/092.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-093",
+      "character": "처",
+      "order": 93,
+      "fileName": "093.mp3",
+      "path": "/audio/093.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-094",
+      "character": "쳐",
+      "order": 94,
+      "fileName": "094.mp3",
+      "path": "/audio/094.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-095",
+      "character": "초",
+      "order": 95,
+      "fileName": "095.mp3",
+      "path": "/audio/095.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-096",
+      "character": "쵸",
+      "order": 96,
+      "fileName": "096.mp3",
+      "path": "/audio/096.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-097",
+      "character": "추",
+      "order": 97,
+      "fileName": "097.mp3",
+      "path": "/audio/097.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-098",
+      "character": "츄",
+      "order": 98,
+      "fileName": "098.mp3",
+      "path": "/audio/098.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-099",
+      "character": "츠",
+      "order": 99,
+      "fileName": "099.mp3",
+      "path": "/audio/099.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-100",
+      "character": "치",
+      "order": 100,
+      "fileName": "100.mp3",
+      "path": "/audio/100.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-101",
+      "character": "카",
+      "order": 101,
+      "fileName": "101.mp3",
+      "path": "/audio/101.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-102",
+      "character": "캬",
+      "order": 102,
+      "fileName": "102.mp3",
+      "path": "/audio/102.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-103",
+      "character": "커",
+      "order": 103,
+      "fileName": "103.mp3",
+      "path": "/audio/103.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-104",
+      "character": "켜",
+      "order": 104,
+      "fileName": "104.mp3",
+      "path": "/audio/104.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-105",
+      "character": "코",
+      "order": 105,
+      "fileName": "105.mp3",
+      "path": "/audio/105.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-106",
+      "character": "쿄",
+      "order": 106,
+      "fileName": "106.mp3",
+      "path": "/audio/106.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-107",
+      "character": "쿠",
+      "order": 107,
+      "fileName": "107.mp3",
+      "path": "/audio/107.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-108",
+      "character": "큐",
+      "order": 108,
+      "fileName": "108.mp3",
+      "path": "/audio/108.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-109",
+      "character": "크",
+      "order": 109,
+      "fileName": "109.mp3",
+      "path": "/audio/109.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-110",
+      "character": "키",
+      "order": 110,
+      "fileName": "110.mp3",
+      "path": "/audio/110.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-111",
+      "character": "타",
+      "order": 111,
+      "fileName": "111.mp3",
+      "path": "/audio/111.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-112",
+      "character": "탸",
+      "order": 112,
+      "fileName": "112.mp3",
+      "path": "/audio/112.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-113",
+      "character": "터",
+      "order": 113,
+      "fileName": "113.mp3",
+      "path": "/audio/113.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-114",
+      "character": "텨",
+      "order": 114,
+      "fileName": "114.mp3",
+      "path": "/audio/114.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-115",
+      "character": "토",
+      "order": 115,
+      "fileName": "115.mp3",
+      "path": "/audio/115.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-116",
+      "character": "툐",
+      "order": 116,
+      "fileName": "116.mp3",
+      "path": "/audio/116.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-117",
+      "character": "투",
+      "order": 117,
+      "fileName": "117.mp3",
+      "path": "/audio/117.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-118",
+      "character": "튜",
+      "order": 118,
+      "fileName": "118.mp3",
+      "path": "/audio/118.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-119",
+      "character": "트",
+      "order": 119,
+      "fileName": "119.mp3",
+      "path": "/audio/119.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-120",
+      "character": "티",
+      "order": 120,
+      "fileName": "120.mp3",
+      "path": "/audio/120.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-121",
+      "character": "파",
+      "order": 121,
+      "fileName": "121.mp3",
+      "path": "/audio/121.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-122",
+      "character": "퍄",
+      "order": 122,
+      "fileName": "122.mp3",
+      "path": "/audio/122.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-123",
+      "character": "퍼",
+      "order": 123,
+      "fileName": "123.mp3",
+      "path": "/audio/123.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-124",
+      "character": "펴",
+      "order": 124,
+      "fileName": "124.mp3",
+      "path": "/audio/124.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-125",
+      "character": "포",
+      "order": 125,
+      "fileName": "125.mp3",
+      "path": "/audio/125.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-126",
+      "character": "표",
+      "order": 126,
+      "fileName": "126.mp3",
+      "path": "/audio/126.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-127",
+      "character": "푸",
+      "order": 127,
+      "fileName": "127.mp3",
+      "path": "/audio/127.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-128",
+      "character": "퓨",
+      "order": 128,
+      "fileName": "128.mp3",
+      "path": "/audio/128.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-129",
+      "character": "프",
+      "order": 129,
+      "fileName": "129.mp3",
+      "path": "/audio/129.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-130",
+      "character": "피",
+      "order": 130,
+      "fileName": "130.mp3",
+      "path": "/audio/130.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-131",
+      "character": "하",
+      "order": 131,
+      "fileName": "131.mp3",
+      "path": "/audio/131.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-132",
+      "character": "햐",
+      "order": 132,
+      "fileName": "132.mp3",
+      "path": "/audio/132.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-133",
+      "character": "허",
+      "order": 133,
+      "fileName": "133.mp3",
+      "path": "/audio/133.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-134",
+      "character": "혀",
+      "order": 134,
+      "fileName": "134.mp3",
+      "path": "/audio/134.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-135",
+      "character": "호",
+      "order": 135,
+      "fileName": "135.mp3",
+      "path": "/audio/135.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-136",
+      "character": "효",
+      "order": 136,
+      "fileName": "136.mp3",
+      "path": "/audio/136.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-137",
+      "character": "후",
+      "order": 137,
+      "fileName": "137.mp3",
+      "path": "/audio/137.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-138",
+      "character": "휴",
+      "order": 138,
+      "fileName": "138.mp3",
+      "path": "/audio/138.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-139",
+      "character": "흐",
+      "order": 139,
+      "fileName": "139.mp3",
+      "path": "/audio/139.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    },
+    {
+      "id": "letter-140",
+      "character": "히",
+      "order": 140,
+      "fileName": "140.mp3",
+      "path": "/audio/140.mp3",
+      "audioLengthSeconds": 0.7430385487528345
+    }
+  ]
+}
