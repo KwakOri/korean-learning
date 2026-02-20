@@ -204,7 +204,7 @@ export function PracticeApp() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [mode, setMode] = useState<Mode>('grid');
   const [uiLanguage, setUiLanguage] = useState<UiLanguage>('kr');
-  const [mobileSettingsOpen, setMobileSettingsOpen] = useState(false);
+  const [settingsOpen, setSettingsOpen] = useState(false);
   const [audioError, setAudioError] = useState<string | null>(null);
   const [ready, setReady] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
@@ -366,70 +366,25 @@ export function PracticeApp() {
 
   return (
     <main className="mx-auto flex min-h-[100dvh] w-full max-w-[1080px] flex-col px-4 py-4 sm:w-[min(1080px,92vw)] sm:px-0 sm:py-10">
-      <header className="mb-4 flex items-start justify-between gap-3 sm:grid sm:gap-3">
-        <div className="order-2 flex shrink-0 justify-end sm:order-1">
-          <div className="hidden items-center gap-2 sm:flex">
-            <span className="text-[11px] font-semibold uppercase tracking-wider text-slate-500">
-              {t.languageLabel}
-            </span>
-            <Button
-              variant="subtle"
-              active={uiLanguage === 'kr'}
-              className="h-10 min-w-11 px-3"
-              onClick={() => setUiLanguage('kr')}
-            >
-              KR
-            </Button>
-            <Button
-              variant="subtle"
-              active={uiLanguage === 'jp'}
-              className="h-10 min-w-11 px-3"
-              onClick={() => setUiLanguage('jp')}
-            >
-              JP
-            </Button>
-          </div>
-          <button
-            type="button"
-            className="inline-flex h-10 w-10 items-center justify-center rounded-xl border border-line bg-white/90 text-slate-700 shadow-[0_8px_14px_rgba(0,0,0,0.1)] transition hover:bg-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 sm:hidden"
-            aria-label={t.settingsLabel}
-            title={t.settingsLabel}
-            onClick={() => setMobileSettingsOpen((prev) => !prev)}
-          >
-            <GearIcon />
-            <span className="sr-only">{t.settingsLabel}</span>
-          </button>
-        </div>
-        <h1 className="order-1 text-2xl font-extrabold tracking-tight sm:order-2 sm:text-4xl">
+      <header className="mb-4 flex items-start justify-between gap-3">
+        <h1 className="text-2xl font-extrabold tracking-tight sm:text-4xl">
           {t.title}
         </h1>
+        <button
+          type="button"
+          className="inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border border-line bg-white/90 text-slate-700 shadow-[0_8px_14px_rgba(0,0,0,0.1)] transition hover:bg-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
+          aria-label={t.settingsLabel}
+          title={t.settingsLabel}
+          onClick={() => setSettingsOpen((prev) => !prev)}
+        >
+          <GearIcon />
+          <span className="sr-only">{t.settingsLabel}</span>
+        </button>
       </header>
 
       <div className="flex min-h-0 flex-1 flex-col">
-        <section
-          className="mb-4 hidden grid-cols-2 gap-2 sm:flex sm:flex-wrap"
-          aria-label={t.modeLabel}
-        >
-          <Button
-            variant="subtle"
-            active={mode === 'grid'}
-            className="h-11 w-full sm:w-auto"
-            onClick={() => setMode('grid')}
-          >
-            {t.gridMode}
-          </Button>
-          <Button
-            variant="subtle"
-            active={mode === 'single'}
-            className="h-11 w-full sm:w-auto"
-            onClick={() => setMode('single')}
-          >
-            {t.singleMode}
-          </Button>
-        </section>
-
-        {mobileSettingsOpen ? (
-          <section className="mb-4 rounded-2xl border border-line bg-white/90 p-3 shadow-[0_12px_22px_rgba(0,0,0,0.12)] sm:hidden">
+        {settingsOpen ? (
+          <section className="mb-4 w-full rounded-2xl border border-line bg-white/90 p-3 shadow-[0_12px_22px_rgba(0,0,0,0.12)] sm:ml-auto sm:w-[420px]">
             <div className="grid gap-3">
               <div>
                 <p className="mb-2 text-[11px] font-semibold uppercase tracking-wider text-slate-500">
@@ -503,25 +458,6 @@ export function PracticeApp() {
 
         {mode === 'grid' ? (
           <section aria-live="polite" className="flex min-h-0 flex-1 flex-col">
-            <div className="mb-4 hidden flex-wrap items-center gap-2 sm:flex">
-              <Button
-                variant="refresh"
-                className="h-11 gap-2 px-4"
-                onClick={orderDeck}
-              >
-                <OrderIcon />
-                {t.orderDeck}
-              </Button>
-              <Button
-                variant="refresh"
-                className="h-11 gap-2 px-4"
-                onClick={shuffleDeck}
-              >
-                <RefreshIcon />
-                {t.shuffleGrid}
-              </Button>
-            </div>
-
             <div className="grid flex-1 content-start grid-cols-[repeat(auto-fill,minmax(64px,1fr))] gap-2 overflow-auto pb-2 sm:grid-cols-[repeat(auto-fill,minmax(72px,1fr))] sm:gap-2.5 sm:overflow-visible sm:pb-0">
               {deck.map((letter, index) => (
                 <button
@@ -540,25 +476,6 @@ export function PracticeApp() {
           </section>
         ) : (
           <section aria-live="polite" className="flex min-h-0 flex-1 flex-col">
-            <div className="mb-4 hidden flex-wrap items-center gap-2 sm:flex">
-              <Button
-                variant="refresh"
-                className="h-11 gap-2 px-4"
-                onClick={orderDeck}
-              >
-                <OrderIcon />
-                {t.orderDeck}
-              </Button>
-              <Button
-                variant="refresh"
-                className="h-11 gap-2 px-4"
-                onClick={shuffleDeck}
-              >
-                <RefreshIcon />
-                {t.shuffleDeck}
-              </Button>
-            </div>
-
             <div className="grid flex-1 content-center justify-items-center gap-3 pt-1">
               <div className="relative grid aspect-square w-[min(360px,84vw)] animate-pop place-items-center rounded-[1.7rem] border border-line bg-gradient-to-br from-white to-[#ecf4ff] text-[clamp(4.4rem,16vw,8rem)] font-extrabold shadow-[0_20px_40px_rgba(0,0,0,0.12),inset_0_1px_0_rgba(255,255,255,0.9)] sm:w-[min(360px,78vw)]">
                 {currentLetter?.character}
